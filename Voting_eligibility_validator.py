@@ -1,3 +1,5 @@
+# Python program to make a GUI Voting eligibility validator using tkinter
+
 NumList=[]
 evenSum=0
 
